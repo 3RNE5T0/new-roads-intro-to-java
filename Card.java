@@ -18,7 +18,7 @@ public class Card{
   }
   
   
-  //the followig are mutators
+  //the following are mutators
  /* public String getColor(){
     return color;
   }
